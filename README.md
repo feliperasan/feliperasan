@@ -1,5 +1,6 @@
 ## Hi there, I'm Felipe Rafael 👋
 📚 I'm currently learning Kotlin and Azure Cloud
+
 🎮 I love The Witcher and Diablo
 
 <div align="center">
