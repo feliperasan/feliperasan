@@ -1,4 +1,4 @@
-## Hi there, I'm Felipe Rafael 👋
+## Hi there 👋
 📚 I'm currently learning Kotlin and Azure Cloud
 
 🎮 I love The Witcher and Diablo
