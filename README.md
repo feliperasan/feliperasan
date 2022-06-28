@@ -1,7 +1,7 @@
 ## Hi there 👋
 📚 I'm currently learning Kotlin and Azure Cloud
 
-🎮 I love The Witcher and Diablo
+🎮 I love The Witcher, Diablo, and Path of Exile
 
 <div align="center">
   <a href="https://github.com/feliperasan">
